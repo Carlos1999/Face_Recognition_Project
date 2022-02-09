@@ -12,7 +12,13 @@ Código criado com base nos códigos de Adrian Rosebrock do site **PyImageSearch
 
 **1 -** Escolhendo a primeira opção se abrirá a câmera, na qual serão armazenados os rostos que estiverem enquadrados no momento em que a tecla **P** for pressionada, dando a opção ao usuário de digitar um nome ou código referente aquele rosto.
 
+![opcao1](https://j.gifs.com/r2V1VE.gif)
+
+
 **2 -** O modo vigia irá abrir a câmera que vai monitorar todos os rostos enquadrados e identificar os que já estão cadastrados e os que são desconhecidos.
+
+![opcao2](https://j.gifs.com/J8WBWo.gif)
+
 
 **3 -** Lista todos os nomes que foram dados aos rostos cadastrados.
 
