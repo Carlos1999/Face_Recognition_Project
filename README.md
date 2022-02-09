@@ -4,7 +4,7 @@
 
 O projeto foi desenvolvido com o objetivo de por em prática conhecimentos adquiridos sobre visão computacional voltado para internet das coisas, ele possui um sistema simples de cadastro de rosto de pessoas que será posteriormente utilizado para liberar acesso á algum recurso, também possui função de imprimir pessoas cadastradas e remover, caso alguém perca seu privilégio de acesso.
 
-
+Código criado com base nos códigos de Adrian Rosebrock do site **PyImageSearch.com** .
 
 ![menu](https://github.com/Carlos1999/Face_Recognition_Project/blob/main/Imagens/menu.png) 
 
