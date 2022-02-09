@@ -18,7 +18,7 @@ O projeto foi desenvolvido com o objetivo de por em prática conhecimentos adqui
 
 **4 -** Remove um dos rostos desejado passando o seu nome.
 
-**5 - ** Finaliza o sistema.  
+**5 -** Finaliza o sistema.  
 
 
 
