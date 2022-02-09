@@ -6,7 +6,7 @@ O projeto foi desenvolvido com o objetivo de por em prática conhecimentos adqui
 
 
 
-![menu](C:\Users\cvcsa\Downloads\PROJETO FACE RECOGNITION-20220209T145202Z-001\PROJETO FACE RECOGNITION\Imagens\menu.png) 
+![menu](https://github.com/Carlos1999/Face_Recognition_Project/blob/main/Imagens/menu.png) 
 
 
 
@@ -14,11 +14,11 @@ O projeto foi desenvolvido com o objetivo de por em prática conhecimentos adqui
 
 **2 -** O modo vigia irá abrir a câmera que vai monitorar todos os rostos enquadrados e identificar os que já estão cadastrados e os que são desconhecidos.
 
-**3 - **Lista todos os nomes que foram dados aos rostos cadastrados.
+**3 -** Lista todos os nomes que foram dados aos rostos cadastrados.
 
-**4 - **Remove um dos rostos desejado passando o seu nome.
+**4 -** Remove um dos rostos desejado passando o seu nome.
 
-**5 -** Finaliza o sistema.  
+**5 - ** Finaliza o sistema.  
 
 
 
